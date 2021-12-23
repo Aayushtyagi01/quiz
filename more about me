@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>    
+    <meta charset="utf-8">
+    <p><ul>
+        <li><dl>
+            <dt><b>Acadmic Qualifications:</b></dt>
+            <dd>Advance Diploma In Web Application And Development </dd>
+            <dd>CodeCore College , New Westminster,B.C </dd>
+            <dd><h4>2021-present</h4></dd>
+        </dl></li>
+        <li><dl>
+            <dt><b><h1>KEY SKILLS</h1></b></dt>
+            <dd>Adaptibility</dd>
+            <dd>Strong leadership Skills</dd>
+            <dd>HTML,CSS beginer</dd>
+        </dl></li>
+        <li><dl>
+    </ul></p>
+</head>
+    <style>
+        body {background-color: burlywood}
+        h4{font-style: italic;}
+        h3{font-style:oblique;}
+        </style>
+        <body>
+            <p>
+            <audio controls>
+                <source src="my.mp3" type="audio/mpeg">
+            </audio>
+            </p>
+            <p><b>CODEPEN</b> <a href="https://codepen.io/ayush5057"<\a>Ayush Tyagi</p>
+            <p>go back <a href="resume.html" </a>resume.html</p>
+            </body>
+            </html>

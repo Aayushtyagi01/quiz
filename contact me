@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <style>
+body{background-color: cornflowerblue; }
+h3{font-style: italic;}
+h1{text-decoration: underline;}
+
+    </style>   
+    <meta charset="utf-8">
+    <tittle><h1>CONTACT ME</h1></tittle>
+    <p><ul>
+    <li><dl>
+        <dt><b>Mobile number</b></dt>
+        <dd><h3>+1 604 499 5563</h3></dd>
+    </dl></li>
+   
+    <li><dl>
+         <dt><b>Mailing Adress</b></dt>
+         <dd>house number:7028</dd>
+         <dd>street: 142</dd>
+         <dd>avenue:72</dd>
+         <dd>V3W5N3</dd>
+         <dd>city: surrey, B.C, Canada</dd>
+    </dl></li>
+    <li><dl>
+        <dt><b>email address</b></dt>
+        <dd>ayushtyagi5057@gmail.com</dd>
+    </dl></li>
+</ul></p>
+</head>
+<body>
+    <p>go back to <a href="resume.html"</a>resume.html</p>
+</body>
+</html>
